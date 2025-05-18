@@ -45,21 +45,7 @@
     ?>
 </header>
 <body>
-    <header class="menu">
-        <div class="logo">
-            <h1><a id="logo_header" href="C:\xampp\htdocs\#00. Portifolio\First-portfolio\01.index.html">
-                Leo
-                </a>
-            </h1>
-        </div>
-        <nav>
-            <ul>
-                <li><a class="link" href="C:\xampp\htdocs\#00. Portifolio\First-portfolio\01.index.html">Inicio</a></li>
-                <li><a class="link" href="C:\xampp\htdocs\#00. Portifolio\First-portfolio\02.sobremim.html">Sobre Mim</a></li>
-                
-            </ul>
-        </nav>
-    </header>
+   
     <section id="background_1" class="background_section">
         <div class="container">
             <div class="foto"></div>
