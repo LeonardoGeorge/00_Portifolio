@@ -63,9 +63,9 @@
 
                 <a href="https://github.com/LeonardoGeorge"><div class="social_midia"><i class="fab fa-github"></i></div></a>
 
-                <a href="C:\xampp\htdocs\#00. Portifolio\First-portfolio\03.e-mail.html"><div class="social_midia"><i class="fas fa-envelope"></i></div></a>
+                <a href="../00_Portifolio/03.Contact_Me.php "><div class="social_midia"><i class="fas fa-envelope"></i></div></a>
 
-                <a href="C:\xampp\htdocs\#00. Portifolio\First-portfolio\02.sobremim.html"><div class="social_midia"><p> + </p></div></a>
+                <a href="../00_Portifolio/02.About_Me.php"><div class="social_midia"><p> + </p></div></a>
             </div>   
 
         </div>

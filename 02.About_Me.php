@@ -37,13 +37,13 @@
         </section>
         <div class="logos">
             <p>Click me...</p>
-            <a href="https://github.com/LeonardoGeorge/-35-SnakeGame"><img src="../00_Portifolio/Imagens/Skill's/Logo JS.png" alt="JavaScript Logo"></a>
-            <a href="https://github.com/LeonardoGeorge/03-CalculadoraTS"><img src="../00_Portifolio/Imagens/Skill's/Logo TY.png" alt="TypeScript Logo"></a>
-            <a href="http://"><img src="../00_Portifolio/Imagens/Skill's/Logo BD.png" alt="Database Logo"></a>
-            <a href="http://"><img src="../00_Portifolio/Imagens/Skill's/Logo MySQL .png" alt="MySQL Logo"></a>
-            <a href="http://"><img src="../00_Portifolio/Imagens/Skill's/Logo SQLite.png" alt="SQLite Logo"></a>
+            <a href="https://github.com/LeonardoGeorge/-35-SnakeGame"><img src="https://github.com/LeonardoGeorge/00_Portifolio/blob/main/Imagens/Skill's/Logo%20JS.png?raw=true" alt="JavaScript Logo"></a>
+            <a href="https://github.com/LeonardoGeorge/03-CalculadoraTS"><img src="https://github.com/LeonardoGeorge/00_Portifolio/blob/main/Imagens/Skill's/Logo%20TY.png?raw=true" alt="TypeScript Logo"></a>
+            <a href="https://github.com/LeonardoGeorge/projeto_FullStack"><img src="https://github.com/LeonardoGeorge/00_Portifolio/blob/main/Imagens/Skill's/Logo%20BD.png?raw=true" alt="Database Logo"></a>
+            <a href="https://github.com/LeonardoGeorge/projeto_FullStack"><img src="https://github.com/LeonardoGeorge/00_Portifolio/blob/main/Imagens/Skill's/Logo%20MySQL%20.png?raw=true" alt="MySQL Logo"></a>
+            <a href="https://github.com/LeonardoGeorge/organizador_tarefas"><img src="https://github.com/LeonardoGeorge/00_Portifolio/blob/main/Imagens/Skill's/Logo%20SQLite.png?raw=true" alt="SQLite Logo"></a>
             <a href="https://github.com/LeonardoGeorge/organizador_tarefas"><img src="../00_Portifolio/Imagens/Skill's/Logo PHP2.png" alt="PHP Logo">
-            <a href="https://github.com/LeonardoGeorge/organizador_tarefas"><img src="../00_Portifolio/Imagens/Skill's/Logo GitHub.png" alt="GitHub Logo"></a>
+            <a href="https://github.com/LeonardoGeorge"><img src="../00_Portifolio/Imagens/Skill's/Logo GitHub.png" alt="GitHub Logo"></a>
         </div>
     </main>
 </body>
